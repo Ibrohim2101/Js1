@@ -6,6 +6,11 @@ console.log('sd');
 console.log('sd');
 console.log('sd');
 console.log('sd');
+console.log('sd');
+console.log('sd');
+console.log('sd');
+console.log('sd');
+console.log('sd');
 if (!isNaN(Ism)) {
     console.log("Siz ismingizni notog'ri kiritingiz");
 }
